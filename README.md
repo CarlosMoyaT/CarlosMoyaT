@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Carlos Moya</h1>
-<h3 align="center">Soy un insaciable de todo lo que rodea el desarrollo, con hambre de conocimiento y poner en practica cuanto voi aprendiendo.</h3>
+<h3 align="center">Soy un insaciable de todo lo que rodea el desarrollo y la programación, con hambre de conocimiento y ganas de poner en practica cuanto voi aprendiendo.</h3>
 
 - 💬 Ask me about **Java, HTML, CSS, Javascript, SQL**
 
