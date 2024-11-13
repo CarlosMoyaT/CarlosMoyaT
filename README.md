@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Me llamo Carlos Moya</h1>
 <h3 align="center"></h3>
 
-- 💬 Ask me about **Java, Spring, HTML, CSS, Javascript, SQL**
+- 💬 Java, Spring, HTML, CSS, Javascript, SQL**
 
-- 📫 How to reach me **solrak_27@hotmail.com**
+- 📫 **solrak_27@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
