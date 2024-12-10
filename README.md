@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Carlos Moya</h1>
 <h3 align="center"></h3>
 
-- 💬 Java, Spring, HTML, CSS, Javascript, SQL**
+- 💬 Java, Spring, HTML, CSS, Javascript, SQL
 
 - 📫 **solrak_27@hotmail.com**
 
