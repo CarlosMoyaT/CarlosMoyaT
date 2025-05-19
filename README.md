@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Me llamo Carlos Moya</h1>
+<h1 align="center">Hola, Me llamo Carlos Moya</h1>
 <h3 align="center"></h3>
 
 - 💬 Java, Spring Boot, HTML, CSS, JavaScript, SQL, Docker
