@@ -1,7 +1,7 @@
-<h1 align="center">Hola, Me llamo Carlos Moya</h1>
+<h1 align="center">Hola, me llamo Carlos Moya</h1>
 <h3 align="center"></h3>
 
-- 💬 Java, Spring Boot, Kafka, JavaScript, SQL, Docker
+- 💬Mi rincón donde experimento, construyo y hago cosas
 
 - 📫 **solrak_27@hotmail.com**
 
