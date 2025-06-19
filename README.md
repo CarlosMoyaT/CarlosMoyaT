@@ -37,8 +37,8 @@
   <h3 align="left">Contacto:</h3>
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]
-[![Email](https://img.shields.io/badge/Hotmail-D44638?style=flat-square&logo=microsoftoutlook&logoColor=white)]
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+![Email](https://img.shields.io/badge/Hotmail-D44638?style=flat-square&logo=microsoftoutlook&logoColor=white)
 
 
 </p>
