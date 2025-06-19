@@ -37,7 +37,8 @@
   <h3 align="left">Contacto:</h3>
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos moya)
-[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:solrak_27@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos moya)
+[![Hotmail](https://img.shields.io/badge/Hotmail-D44638?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:solrak_27@hotmail.com)
+
 
 </p>
