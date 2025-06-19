@@ -37,5 +37,4 @@
   - Arquitectura hexagonal
   - Microservicios
   - RESful API
-📫 Contact
 </p>
