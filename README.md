@@ -3,12 +3,8 @@
 
 - 💬Mi rincón donde experimento, construyo y hago cosas
 
-- 📫 **solrak_27@hotmail.com**
 
-<h3 align="left">Contacto:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/carlos moya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos moya" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Conocimientos y aprendiendo:</h3>
 <p align="left">
@@ -37,4 +33,10 @@
   - Arquitectura hexagonal
   - Microservicios
   - RESful API
+
+  <h3 align="left">Contacto:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/carlos moya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos moya" height="30" width="40" /></a>
+</p>
+📫 **solrak_27@hotmail.com**
 </p>
