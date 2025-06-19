@@ -7,6 +7,7 @@
 
 
 <h3 align="left">Conocimientos y aprendiendo:</h3>
+────────────────────────────────────────
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
@@ -22,7 +23,8 @@
   - RESful API
 
   <h3 align="left">Contacto:</h3>
- 
+  
+ ────────────────────────────────────────
   
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
 ![Email](https://img.shields.io/badge/Hotmail-D44638?style=flat-square&logo=microsoftoutlook&logoColor=white)
