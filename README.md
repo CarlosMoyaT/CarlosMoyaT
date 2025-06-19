@@ -1,7 +1,7 @@
 <h1 align="center">Hola, me llamo Carlos Moya</h1>
 <h3 align="center"></h3>
 
-- 💬Mi rincón donde experimento, construyo y hago cosas
+💬MI RINCÓN DONDE EXPERIMENTO Y HAGO COSAS
 
 
 
@@ -23,7 +23,7 @@
   - Microservicios
   - RESful API
 
-  <h3 align="left">Contacto:</h3>
+<h3 align="left">Contacto:</h3>
 <h3 align="center"></h3>
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
