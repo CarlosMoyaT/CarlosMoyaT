@@ -36,8 +36,10 @@
 
   <h3 align="left">Contacto:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/carlos moya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos moya" height="30" width="40" /></a>
-</p>
+  <a href="https://linkedin.com/in/carlos moya" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos moya" height="30" width="40" />
+  </a>
+  
   <a href="mailto:solrak_27@hotmail.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoftoutlook.svg" alt="Hotmail" height="30" width="40" />
   </a>
