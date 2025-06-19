@@ -33,4 +33,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
+
+  - Arqutiectura hexagonal
+  - Microservicios
+  - RESful API
+📫 Contact
 </p>
