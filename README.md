@@ -1,12 +1,12 @@
-<h1 align="center">Hola, me llamo Carlos Moya</h1>
+<h1 align="center">Hi, my name is Carlos</h1>
 <h3 align="center"></h3>
 
-💬MI RINCÓN DONDE EXPERIMENTO Y HAGO COSAS
+💬MY WORKSPACE
 
 
 
 
-<h3 align="left">Conocimientos y aprendiendo:</h3>
+<h3 align="left">EXPOSURES AND LEARNING:</h3>
 <h3 align="center"></h3>
 
 
@@ -19,11 +19,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.mysql.com/)
 
 
-  - Arquitectura hexagonal
-  - Microservicios
-  - RESful API
-
-<h3 align="left">Contacto:</h3>
+<h3 align="left">Contact:</h3>
 <h3 align="center"></h3>
 
 
