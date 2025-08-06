@@ -6,7 +6,7 @@
 
 
 
-<h3 align="left">EXPOSURES AND LEARNING:</h3>
+<h3 align="left">EXPERIENCE AND LEARNING:</h3>
 <h3 align="center"></h3>
 
 
