@@ -1,6 +1,3 @@
-<h1 align="center">Hi, my name is Carlos</h1>
-<h3 align="center"></h3>
-
 I am a passionate software developer with a strong interest in backend engineering and clean code principles. I enjoy solving complex problems and building well-structured, maintainable applications.
 
 My main focus is on the Java ecosystem, where I work with Spring Boot, Spring Cloud, and Spring Security to develop modern applications. I have practical experience designing microservices architectures, applying asynchronous communication with Apache Kafka, and implementing authentication and access management with Keycloak.
